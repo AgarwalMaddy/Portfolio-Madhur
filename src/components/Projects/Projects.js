@@ -57,8 +57,8 @@ function Projects() {
                            smooth navigation, it offers a delightful browsing experience, allowing 
                            visitors to easily explore my work and gain a comprehensive understanding of 
                            my abilities and accomplishments"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink=""              
+              ghLink="https://github.com/AgarwalMaddy/Portfolio-Madhur"
+              demoLink="https://agarwalmadhur19.vercel.app/"              
             />
           </Col>
 
