@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\Assets",
-    "\\src\\Assets\\Projects"
+    "\\src\\components",
+    "\\src\\components\\Projects"
   ],
-  "SelectedNode": "\\src\\Assets\\Projects\\Portfolio.png",
+  "SelectedNode": "\\src\\components\\Navbar.js",
   "PreviewInSolutionExplorer": false
 }
