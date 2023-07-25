@@ -1,10 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src\\Assets\\Projects",
+    "\\src",
     "\\src\\components",
-    "\\src\\components\\Projects"
+    "\\src\\components\\About",
+    "\\src\\components\\Home"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\src\\App.test.js",
   "PreviewInSolutionExplorer": false
 }
