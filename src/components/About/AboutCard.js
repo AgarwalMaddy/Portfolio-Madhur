@@ -18,18 +18,19 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Mobile Games
+              <ImPointRight /> Play Sports like Cricket, Badminton.
             </li>
             <li className="about-activity">
-              <ImPointRight /> Following tournaments in E-Sports in India.
+              <ImPointRight /> Follow E-Sports Tournaments in India.
             </li>
             <li className="about-activity">
-              <ImPointRight /> I really love to do Nature Photography.
+              <ImPointRight /> Love to do art and photograhy.
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Work Hard Sucess is Yours!"{" "}
+            "Failure not always comes with mistake, 
+             <br />sometimes things may not have gone the right way!"{" "}
           </p>
           <footer className="blockquote-footer">Madhur</footer>
         </blockquote>
