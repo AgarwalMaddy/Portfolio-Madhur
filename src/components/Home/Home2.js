@@ -27,7 +27,7 @@ function Home2() {
               <br />
               <br />
               Whenever possible, I also apply my passion for developing projects
-              with <b className="purple">Node.js</b> and
+              with <b className="purple"></b>
                 <b className="purple">
                   {" "}
                   Modern Javascript Library and Frameworks
