@@ -80,10 +80,7 @@ function Projects() {
               imgPath={GMN}
               isBlog={false}
               title="Guess my Number"
-              description= "An interactive web game where users can challenge their problem-solving skills 
-                            by guessing a number within a given range. Promoted user engagement through
-                            dynamic high/low indicators, encouraging players to improve their guesswork
-                            and enhance their logical thinking abilities."
+              description= "An interactive web game where users can challenge their problem-solving skills by guessing a number within a given range. Promoted user engagement through dynamic high/low indicators, encouraging players to improve their guesswork and enhance their logical thinking abilities."
               ghLink="https://github.com/AgarwalMaddy/Guess-the-Number"
               demoLink="https://guessing-number-madhur.vercel.app/"
             />
